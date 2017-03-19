@@ -17,7 +17,7 @@ With all information (connected to ssh server, runtime and exit status from last
 
 <img src="screenshot_full.png" width="686" height="337">
 
-For a zsh compatible version of this theme have a look at [slimline](https://github.com/mgee/slimline)
+For a zsh compatible version of this theme have a look at [slimline](https://github.com/mgee/slimline).
 
 ## Table Of Contents
 
