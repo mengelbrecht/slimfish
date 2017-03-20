@@ -53,8 +53,6 @@ With [fisherman](https://github.com/fisherman/fisherman)
 
 ```fish
 fisher mgee/slimfish
-cd $HOME/.config/fisherman/slimfish
-git submodule update --init
 ```
 
 ## Options
