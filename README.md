@@ -13,7 +13,7 @@ Features:
 
 <img src="screenshot.png" width="686" height="337">
 
-With all information (connected to ssh server, runtime and exit status from last command):
+With most information (connected to ssh server, runtime and exit status from last command):
 
 <img src="screenshot_full.png" width="686" height="337">
 
