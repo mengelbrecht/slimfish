@@ -118,7 +118,7 @@ Defines the color of the execution time. Default is `yellow`.
 
 ##### `SLIMFISH_DISPLAY_USER_HOST_INFO`
 
-Defines whether the `user@host` part is displayed if the user differs from the default user of if connected to a ssh server. Default is `1`.
+Defines whether the `user@host` part is displayed if the user differs from the default user or if connected to a ssh server. Default is `1`.
 
 ##### `SLIMFISH_USER_COLOR`
 
