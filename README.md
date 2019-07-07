@@ -49,10 +49,10 @@ For a zsh compatible version of this theme have a look at [slimline](https://git
 
 ## Installation
 
-With [fisherman](https://github.com/fisherman/fisherman)
+With [fisher](https://github.com/jorgebucaran/fisher)
 
 ```fish
-fisher mgee/slimfish
+fisher add mengelbrecht/slimfish
 ```
 
 ## Options
