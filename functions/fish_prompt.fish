@@ -34,7 +34,7 @@ set -q SLIMFISH_ENABLE_GIT;                  or set -g SLIMFISH_ENABLE_GIT      
 set -q SLIMFISH_ENABLE_ASYNC;                or set -g SLIMFISH_ENABLE_ASYNC                1
 
 
-function slimfish_gitline_async_handler --on-signal INFO
+function slimfish_gitline_async_handler --on-signal USR1
     set -l mypid %self
     set -l value (eval echo "\$prompt_slimfish_gitline_$mypid")
     set -e prompt_slimfish_gitline_$mypid
